@@ -1,0 +1,201 @@
+
+
+
+
+
+
+
+
+
+/* navbar */
+.nav-img{
+    width: 250px;
+    height: 250px; }
+
+  .nav-sec{
+    background-color: #F0FFF0;;
+  }
+
+  .nav-btn{
+    border-radius: 33px;
+background: #21B573;
+padding: 12px 28px;
+align-items: center;
+color: white;
+border: none;
+gap: 10px;
+  }
+
+
+  /* SHowcase Section */
+
+  .learn-fun{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight:700 ;
+line-height: 70px;
+  }
+
+  .any-sc{
+    color: #21B573;
+  }
+
+  .t-p{
+    color: #6C6B6B;
+    /* font-family: 'Poppins', sans-serif; */
+font-size: 16px;
+font-style: normal;
+f
+line-height: 36px; 
+  }
+
+
+  /* Topics */
+
+  .c-img{
+    width: 66px;
+height: 85px;
+margin-top: 30px;
+margin-bottom: 15px;
+  }
+
+
+
+  .c-tit{
+    color: #413960;
+
+font-family: 'Poppins', sans-serif;
+font-size: 28px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  }
+
+  .b-tit{
+    color: #585859;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+
+
+  /* online courses */
+
+  .on-p{
+    color: #413960;
+font-family: Poppins;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+  }
+
+  .o-1{
+    color: #413960;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+  }
+
+  .o-2{
+    color: #585859;
+
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+padding-bottom: 10px;
+
+  }
+
+  .btn-on{
+    padding: 8px 28px;
+align-items: center;
+gap: 10px;
+border-radius: 33px;
+background: #21B573;
+border: none;
+color: white;
+font-family: Poppins;
+
+  }
+
+  .cal-im{
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+
+  }
+
+  .cal-tex{
+    color: #585859;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+
+  }
+
+  /* Testimonial */
+   
+
+
+  .test-image{
+    width: 120px;
+height: 120px;
+margin-left: 130px;
+
+  }
+
+  .test-pad{
+    color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 187.5% */
+  }
+
+  /* footer */
+
+  footer{
+    padding-top: 50px;
+    background-color:#282531;
+  }
+
+  .fot-p{
+   
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 187.5% */
+    
+  }
+
+
+  .no-bullet{
+    list-style-type: none;
+  }
+
+
+  .fot-p ul {
+    padding-left: 0;
+    
+  }
+
+  .fot-p ul li a {
+    color: #F0FFF0;
+    text-decoration: none;
+  }
+
+  .fot-p ul li{
+    line-height: 32px;
+  }
